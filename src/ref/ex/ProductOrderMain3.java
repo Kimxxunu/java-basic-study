@@ -22,7 +22,6 @@ public class ProductOrderMain3 {
             scanner.nextLine();
 
             productOrders[i] = createOrder(productName,price,quantity);
-
         }
 
 //        productOrders[0] = createOrder("두부",2000,2);
