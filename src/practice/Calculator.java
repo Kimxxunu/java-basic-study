@@ -25,6 +25,6 @@ class Dog extends Animal {
     // 소리를 내는 메서드를 재정의 (Overriding)
     @Override
     public void makeSound() {
-        System.out.println("멍~!! 멍멍!!");
+        System.out.println("멍~!! 멍멍!!.");
     }
 }
