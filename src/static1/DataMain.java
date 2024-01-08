@@ -8,5 +8,10 @@ public class DataMain {
         Data data2 = new Data("B");
         System.out.println("B count = " + Data.count);
 
+        nice();
+    }
+
+    static void nice(){
+
     }
 }
